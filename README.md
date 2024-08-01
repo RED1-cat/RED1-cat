@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @RED1-cat
-- 👀 I’m interested in art, discovering new things and learning
+# Hello :)
+- 👋 Hi, I’m **@RED1-cat**
+- 👀 I’m interested in
+  1. Art,
+  2. Discovering new things,
+  3. & Learning
 - 🌱 I’m currently learning programming C# to create games 
 - 💞️ I’m looking to collaborate on ...nothing. Please don't contact me lol
 - 📫 How to reach me ...don't, also. Unless you want an art commision, then I'm open for contact as @furinhonoqueixo1 on insta :)
